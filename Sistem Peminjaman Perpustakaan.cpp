@@ -54,6 +54,12 @@ int main () {
     cout << "Silahkan tentukan pilihan Anda [1] - [7]\n";
     cin >> n ;
 
+    switch(n) {
+        case 3 : {
+            
+        }
+        
+    }
     
     return 0;
 }
