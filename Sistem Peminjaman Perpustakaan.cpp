@@ -56,7 +56,7 @@ int main () {
 
     switch(n) {
         case 3 : {
-            
+           
         }
         
     }
